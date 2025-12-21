@@ -1796,6 +1796,7 @@ _Libraries for working with dependency injection._
 - [do](https://github.com/samber/do) - A dependency injection framework based on Generics.
 - [fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go (built on top of dig).
 - [Go-Spring](https://github.com/go-spring/spring-core) - A high-performance Go framework inspired by Spring Boot, offering DI, auto-configuration, and lifecycle management while maintaining Go's simplicity and efficiency.
+- [go-dependency-injector](https://github.com/pegasusheavy/go-dependency-injector) - A lightweight, type-safe dependency injection container using generics.
 - [gocontainer](https://github.com/vardius/gocontainer) - Simple Dependency Injection Container.
 - [godi](https://github.com/junioryono/godi) - Microsoft-style dependency injection for Go with scoped lifetimes and generics.
 - [goioc/di](https://github.com/goioc/di) - Spring-inspired Dependency Injection Container.
